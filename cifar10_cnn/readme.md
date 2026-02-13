@@ -29,6 +29,9 @@ Images are normalized by scaling pixel values to the range [0, 1].
 - Loss function: Categorical Cross entropy
 - Evaluation metric: Accuracy
 
+- Training Accuracy : 88%
+- Validation Accuracy : 82%
+
 The model is trained and evaluated on the CIFAR-10 dataset to
 observe learning behavior and generalization.
 
