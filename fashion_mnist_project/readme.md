@@ -28,6 +28,8 @@ Input images are normalized before training.
 - Loss function: Sparse Categorical Crossentropy
 - Evaluation metric: Accuracy
 
+
+
 The model is trained on the training set and evaluated on unseen
 test data.
 
